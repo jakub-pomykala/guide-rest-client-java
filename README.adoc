@@ -39,7 +39,7 @@ artists.json
 include::finish/src/resources/artists.json[]
 ----
 
-testing conversion 13:57
+testing conversion 14:05
 
 You will learn how to access a REST service, serialize a Java object that contains a
 list of artists and their albums, and use two different approaches to deserialize
