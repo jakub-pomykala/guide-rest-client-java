@@ -33,6 +33,9 @@ using JSON-B and JSON-P.
 // =================================================================================================
 
 == What you'll learn
+
+Hello this is a test
+
 artists.json
 [source, json, linenums, role='code_column']
 ----
